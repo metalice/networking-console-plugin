@@ -22,7 +22,7 @@
     "cypress-postreport": "yarn cypress-merge && yarn cypress-generate"
   },
   "dependencies": {
-    "react-hook-form": "^7.51.1",
+    "react-hook-form": "^7.51.3",
     "react-linkify": "^1.0.0-alpha"
   },
   "devDependencies": {
